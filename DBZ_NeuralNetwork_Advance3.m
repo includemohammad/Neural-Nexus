@@ -1,7 +1,7 @@
 clc;
 clear;
 close all;
-
+%This is data from book scott fogler chapter7 problem D28 (Third Edition) 
 % داده‌ها
 X = (1:14)';
 
