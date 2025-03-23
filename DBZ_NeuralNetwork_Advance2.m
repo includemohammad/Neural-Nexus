@@ -1,7 +1,7 @@
 clc;
 clear;
 close all;
-
+%This is data from book scott fogler chapter7 problem D28 (Third Edition) 
 % داده‌ها
 X = (1:14);
 Y1 = [1.33e-7 5.27e-7 0.30e-7 3.78e-7 7.56e-7 10.3e-7 17e-7 38.4e-7 ...
